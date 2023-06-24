@@ -27,8 +27,9 @@ This project was developed with the assistance of GitHub Copilot, an AI-powered 
 https://drive.google.com/file/d/1Oe3EEPG6OW5YrDTY8w37vL8Eo7xrUCQP/view?usp=drive_link
 https://drive.google.com/file/d/1oFq7hi7l--iWbepLrXNt9e-4oRJDIfQg/view?usp=drive_link
 
-![m1](https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/105946829/7614181c-db14-4ef1-8a55-6959a7aaed1b)
-![m2](https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/105946829/adb99980-8112-4bf0-841b-93f9070a0089)
+![image](https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/64723994/318d65a2-be2d-41e7-a4d6-f609d7321890)
+![image](https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/64723994/9321b2a9-2a02-4391-839b-7ad0a9c867bb)
+
 
 ## link of the video:-
 https://drive.google.com/file/d/1SCA468pKQyg2mipZw1gJTfa8ewDI2VQd/view?usp=drive_link
