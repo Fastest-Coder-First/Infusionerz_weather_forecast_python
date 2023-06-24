@@ -33,6 +33,8 @@ https://drive.google.com/file/d/1oFq7hi7l--iWbepLrXNt9e-4oRJDIfQg/view?usp=drive
 ## link of the video:-
 https://drive.google.com/file/d/1SCA468pKQyg2mipZw1gJTfa8ewDI2VQd/view?usp=drive_link
 
-https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/105946829/964c2ef8-885d-49fe-9d43-68e738334510
+
+https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/64723994/4297d94a-a321-455c-9035-e12390ec9f62
+
 
 
