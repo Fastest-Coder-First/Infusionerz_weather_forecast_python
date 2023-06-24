@@ -10,6 +10,8 @@ This weather forecasting tool is a Python application that fetches weather data 
 - Requests library (can be installed using `pip install requests`)
 
 ### Architectural flow
+![image](https://github.com/Fastest-Coder-First/Infusionerz_weather_forecast_python/assets/114357685/d27e5688-e5f8-4869-a16c-0ac43e5996c6)
+
   
 1. When prompted, enter the location for which you want to fetch the weather data. You can enter the country name   (e.g., "india").
 2.  The application will connect to our own API.
